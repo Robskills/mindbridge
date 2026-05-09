@@ -1,2 +1,7 @@
-# Examples where no .gitignore rules are needed
-# (when only source/config files and images are present)
+# Image files that were deleted (avoid re-adding)
+public/images/chat-bg.jpg
+public/images/community-bg.jpg
+public/images/crisis-bg.jpg
+public/images/hero-bg.jpg
+public/images/journal-bg.jpg
+public/images/mood-bg.jpg
