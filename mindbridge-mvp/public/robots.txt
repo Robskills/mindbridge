@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://mindbridge.ac.ke/sitemap.xml
+
+# Crawl-delay for respectful scraping
+Crawl-delay: 1
